@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//Commenting .  .
 int main(){
 	int a,b;
 	cin>>a>>b;
